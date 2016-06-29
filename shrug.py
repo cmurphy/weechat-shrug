@@ -1,3 +1,7 @@
+# Copyright 2016 Colleen Murphy
+# Apache 2.0
+# Source: https://github.com/cmurphy/weechat-shrug
+#
 import weechat
 
 weechat.register("shrug", "krinkle", "0.0.1", "Apache-2.0", "Shrug", "", "")
